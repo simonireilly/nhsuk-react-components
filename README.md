@@ -58,7 +58,9 @@ A storybook containing all of the components and their usage can be found [here]
 
 ### Preparing Releases
 
-Releases run in CI using github actions. To prepare a release create a new release TAG in github with your release version.
+Releases run in CI using github actions. 
+
+To prepare a release create a new release TAG in github with your release version.
 
 >`NPM_TOKEN` should be stored in the repositories [secrets in GitHub](https://github.com/NHSDigital/nhsuk-react-components/settings/secrets/actions)
 
